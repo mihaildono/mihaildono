@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://www.technotavern.com/assets/logo.jpeg" alt="TechnoTavern Logo" width="200" />
+  <a href="https://www.technotavern.com">
+    <img src="./assets/logo.svg" alt="TechnoTavern Logo" width="200" />
+  </a>
 
-  # TechnoTavern.com
+  <h1><a href="https://www.technotavern.com">TechnoTavern.com</a></h1>
 </div>
